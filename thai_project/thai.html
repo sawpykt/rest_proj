@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Thai Project</title>
+
+    <!-- FONTS & STYLESHEETS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles/shared/general.css">
+    <link rel="stylesheet" href="styles/shared/thai-header.css">
+    <link rel="stylesheet" href="styles/pages/thai.css">
+  </head>
+  <body>
+    <!-- HEADER -->
+    <div class="thai-header">
+      <div class="thai-header-left-section">
+        <a href="thai.html" class="header-link">
+          <img class="thai-logo"
+            src="images/Thai/logo_temporary.jpg">
+        </a>
+      </div>
+
+      <!-- CATEGORIES -->
+      <div class="navbar-scrollable"> 
+        <a href="#Ala-Carte">Ala Carte</a>
+        <a href="#Soups">Soups</a>
+        <a href="#Sharing">Sharing</a>
+        <a href="#Sets">Sets</a>
+        <a href="#Vegetarian-Delight">Vegetarian Delight</a>
+        <a href="#Desserts">Desserts</a>
+        <a href="#Add-on">Add on</a>
+        <a href="#Drinks">Drink</a>
+      </div> 
+
+      <!-- RIGHT HEADER SECTION -->
+      <div class="thai-header-right-section">
+        <a class="cart-link header-link" href="checkout.html">
+          <img class="cart-icon" src="images/icons/basket-icon.png">
+          <div class="cart-quantity js-cart-quantity"></div>
+          <div class="cart-text">Cart</div>
+        </a>
+      </div>
+    </div>
+    
+    <!-- PRODUCTS AREA -->
+    <div class="main">
+
+      <div class="products-grid js-products-grid">
+      </div>
+
+    </div>
+    <script type="module" src="scripts/thai.js"></script>
+  </body>
+</html>

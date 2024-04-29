@@ -1,0 +1,98 @@
+.checkout-header {
+  height: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: white;
+
+  display: flex;
+  justify-content: center;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.header-content {
+  width: 100%;
+  max-width: 1100px;
+
+  display: flex;
+  align-items: center;
+}
+
+.checkout-header-left-section {
+  width: 150px;
+}
+
+.thai-logo {
+  width: 80px;
+  margin-top: 12px;
+}
+
+.checkout-header-middle-section {
+  flex: 1;
+  flex-shrink: 0;
+  text-align: center;
+
+  font-size: 25px;
+  font-weight: 500;
+
+  display: flex;
+  justify-content: center;
+}
+
+.return-to-home-link {
+  color: rgb(0, 113, 133);
+  font-size: 23px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+@media (max-width: 575px) {
+  .checkout-header {
+    height: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+  
+    display: flex;
+    justify-content: center;
+  
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
+  
+  .checkout-header-left-section {
+    width: 40px;
+  }
+  
+  .thai-logo {
+    width: 45px;
+    margin-top: 12px;
+  }
+  
+  .checkout-header-middle-section {
+    flex: 1;
+    flex-shrink: 0;
+    text-align: center;
+  
+    font-size: 23px;
+    font-weight: 500;
+  
+    display: flex;
+    justify-content: center;
+  }
+  
+  .return-to-home-link {
+    color: rgb(0, 113, 133);
+    font-size: 21px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+}
