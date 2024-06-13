@@ -6,7 +6,7 @@
   <img src= "https://github.com/sawpykt/rest_proj/assets/167472002/a72b38cf-8ae7-4306-9736-989712fa8fcd.jpg"/>
 </b>
 
-<b> Used supersimpledev's amazon repository as a template css, followed along his js tutorial </b>
+<b> Used supersimpledev's amazon repository as a template css and edited accordingly, followed along his js tutorial. Used stack overflow when faced with challenges. </b>
 
 <h2>Purpose</h2>
 
