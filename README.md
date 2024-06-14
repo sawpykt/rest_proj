@@ -34,6 +34,8 @@
 <h3>Demonstration of site</h3>
 <h4>On large screens</h4>
 <h5>!!PLEASE LET ME KNOW IF CANNOT VIEW VIDEOS I WILL EMAIL TO YOU. Thanks</h5>
+<h5>Video for small screens if below doesn't work: https://drive.google.com/file/d/1UHAeYwyUYCGwmZHp412koMqg7Ja2_Lb2/view?usp=sharing</h5>
+<h5>Video for large screens: https://drive.google.com/file/d/1mIk2OYbIAKNuH2Zjw7w8smSfA4pR4cSc/view?usp=sharing</h5>
 <b> <video src="https://github.com/sawpykt/thai_project/assets/167472002/7ee4c541-5411-4992-bcd2-a8c9e1a237e0.mp4"> </video> </b>
 <h3>On small screen(iPhones)</h3>
 <b> <video src="https://github.com/sawpykt/thai_project/assets/167472002/eff6bd57-ee85-494d-8829-45def726dc09.mp4"></video> </b>
